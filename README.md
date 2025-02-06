@@ -1,3 +1,8 @@
+> [!WARNING]  
+> Ruby on Rails is no longer my main tool, so this repo has become a bit of a relic.
+> RoR is now better equipped with other tools to do what this gem did,
+> so I’m marking this repo as _archived_ and hope it served you well.
+
 **Important**
 - `master` branch contains the bleeding edge development code.
 - check `branches` or `tags` for the latest stable release or specific versions.
